@@ -2,13 +2,14 @@
 //import Inicio from "./componentesEstilosBootstrap/Inicio";
 //import Card from './componentesEstilosBootstrap/Card';
 //import CardRB from "./componentesEstilosBootstrap/CardRB";
-import { Navbar } from "../src/Navbar/Navbar";
+
+import MenuVertical from "./componentesEstilosBootstrap/MenuVertical";
 
 function App() {
   return (
     <div>
       
-      <Navbar.brand></Navbar.brand>
+      <MenuVertical></MenuVertical>
       
       
     </div>
